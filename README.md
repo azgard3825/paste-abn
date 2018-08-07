@@ -72,4 +72,4 @@ function input_paste($this, e){
 
 Now you have a nice way for users to paste into multiple inputs
 
-There is one limitation for this and that is with the default internet browser on android phones. When the paste event fires the clipboardData has not data. 
+There is one limitation for this and that is with the default internet browser on android phones. When the paste event fires the clipboardData has no data. 
